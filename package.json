@@ -1,0 +1,19 @@
+{
+  "name": "Cursor",
+  "description": "Gestionnaire pour liste d'attente et queue dans les guichets",
+  "version": "0.0.1",
+  "keywords": [
+    "Guichets",
+    "html",
+    "bootstrap"
+  ],
+  "author": "Housni Issouffa, linkhousni",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linkhousni/Cursor"
+  },
+  "bugs": {
+    "url": "https://github.com/linkhousni/Cursor/issues"
+  },
+
+}
