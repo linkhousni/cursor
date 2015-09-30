@@ -1,9 +1,14 @@
 {
   "name": "Cursor",
-  "description": "Gestionnaire pour liste d'attente et queue dans les guichets",
+  "description": "Gestionnaire pour file d'attente dans les guichets",
   "version": "0.0.1",
   "keywords": [
-    "Guichets",
+    "gestionnaire"
+    "guichet",
+    "attente",
+    "ticket",
+    "ordre",
+    "curseur",
     "html",
     "bootstrap"
   ],
